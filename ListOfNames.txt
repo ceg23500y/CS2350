@@ -32,7 +32,52 @@ When you add your name to the list, give your self the next consecutive number a
 >>>>>>> 997cf32437d4d56fbabd31bbf8a0478086eb6a5e
 =======
 19) BLACK, CODY *Willeko999x
+19) WRIGHT, JOSEPH *JoeWright117Instructions:
+Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
+When you add your name to the list, give your self the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
+1) BUCK, ERIK
+2) BALASURIYA, LAKSHIKA *balasuriya
+3) GALLAGHER, JOHN
+4) Alnajdi, Ibrahim *najdiis
+5) Bottorff, Benjamin *Velensk
+6) McCarren, Darin *fastyam5
+7) Whatley, Eugene
+<<<<<<< HEAD
+=======
+8) ROBINSON, VITORIA *ToriRobinson
+>>>>>>> da7d96db812e6d0ee93b7009d4caea9b42386dd3
+9)Bergman, Alexander *abergman2
+10)Parker,Tyler *tylerparker
+<<<<<<< HEAD
+=======
+11)NOVAK, EMILY *emilynovak
+12)ROBINSON, JACE *JaceRobinson
+13)Balasuriya,Lakshika
+14)Decker, Brantlyn *bdecker5
+15) HEAD, BRANDON
+16) JOHNSON, CHRISTOPHER
+17) BLAKE, ANDREW *tromboneamb
+<<<<<<< HEAD
+18) GIFFIN, WILLIAM
+=======
+<<<<<<< HEAD
+>>>>>>> 997cf32437d4d56fbabd31bbf8a0478086eb6a5e
+=======
+19) BLACK, CODY *Willeko999x
 19) WRIGHT, JOSEPH *JoeWright117
+>>>>>>> 9d7a124b94c69cb313be8cf1971d614fa9a16f7d
+20) GIFFIN, WILLIAM
+21) SPERL, LELAND *Zoidmania
+22) LAVARNWAY, ETHAN *EManLava
+<<<<<<< HEAD
+=======
+23) WOOD, KYLE *w040kjw
+<<<<<<< HEAD
+>>>>>>> ff7ef1c4ba5f3e633b590de7bd8f147edb055cff
+=======
+ceg23500y
+Propose file change
+
 >>>>>>> 9d7a124b94c69cb313be8cf1971d614fa9a16f7d
 20) GIFFIN, WILLIAM
 21) SPERL, LELAND *Zoidmania
@@ -114,4 +159,3 @@ When you add your name to the list, give your self the next consecutive number a
 =======
 61) Leary, Jonah
 >>>>>>> 4eb5dcaa7ca06854b908e2afde37e8bf7abfc31e
-74) Whitelow, Eric *WhitelowEric
